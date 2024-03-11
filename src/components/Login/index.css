@@ -1,0 +1,20 @@
+/* Write your CSS here */
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0px;
+}
+
+.button {
+  border: 0px solid;
+  background-color: white;
+  border-radius: 10px;
+  font-size: 16px;
+  padding: 10px;
+  text-align: center;
+  width: 120px;
+  color: black;
+  height: 40px;
+}
